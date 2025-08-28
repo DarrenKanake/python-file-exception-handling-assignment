@@ -1,5 +1,4 @@
 # File Handling and Exception Handling Assignment
-# Part 1: File Read & Write Challenge
 
 # 1.Ask the user for a filename.
 # Example: “Enter the name of the file you want to open:”
